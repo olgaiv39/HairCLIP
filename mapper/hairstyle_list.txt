@@ -1,5 +1,6 @@
 afro hairstyle
 bob cut hairstyle
+blond hairstyle
 bowl cut hairstyle
 braid hairstyle
 caesar cut hairstyle
